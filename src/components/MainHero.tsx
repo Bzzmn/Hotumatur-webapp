@@ -3,7 +3,7 @@ import TourSelector from '@/components/TourSelector'
 
 export default function HeroSection() {
     return (
-        <div className="relative h-[calc(100dvh-80px)] md:h-[calc(100dvh-132px)] w-full overflow-hidden z-[1]">
+        <div className="relative h-[calc(100dvh-80px)] md:h-[calc(100dvh-132px)] w-full overflow-hidden z-[1] pt-36">
             {/* Video Background */}
             <div className="absolute top-0 left-0 w-full h-full z-[0]">
                 <iframe
